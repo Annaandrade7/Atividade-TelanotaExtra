@@ -1,0 +1,11 @@
+C:\Users\2022102020079\source\repos\PictureTrabalho\PictureTrabalho\bin\Debug\PictureTrabalho.exe.config
+C:\Users\2022102020079\source\repos\PictureTrabalho\PictureTrabalho\bin\Debug\PictureTrabalho.exe
+C:\Users\2022102020079\source\repos\PictureTrabalho\PictureTrabalho\bin\Debug\PictureTrabalho.pdb
+C:\Users\2022102020079\source\repos\PictureTrabalho\PictureTrabalho\obj\Debug\PictureTrabalho.csproj.AssemblyReference.cache
+C:\Users\2022102020079\source\repos\PictureTrabalho\PictureTrabalho\obj\Debug\PictureTrabalho.csproj.SuggestedBindingRedirects.cache
+C:\Users\2022102020079\source\repos\PictureTrabalho\PictureTrabalho\obj\Debug\PictureTrabalho.Form1.resources
+C:\Users\2022102020079\source\repos\PictureTrabalho\PictureTrabalho\obj\Debug\PictureTrabalho.Properties.Resources.resources
+C:\Users\2022102020079\source\repos\PictureTrabalho\PictureTrabalho\obj\Debug\PictureTrabalho.csproj.GenerateResource.cache
+C:\Users\2022102020079\source\repos\PictureTrabalho\PictureTrabalho\obj\Debug\PictureTrabalho.csproj.CoreCompileInputs.cache
+C:\Users\2022102020079\source\repos\PictureTrabalho\PictureTrabalho\obj\Debug\PictureTrabalho.exe
+C:\Users\2022102020079\source\repos\PictureTrabalho\PictureTrabalho\obj\Debug\PictureTrabalho.pdb
